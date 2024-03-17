@@ -7,4 +7,4 @@
 
 ## 🛠️ Architecture
 
-<img width="2450" src="https://github.com/al1kite/CLUE_B-BE/assets/102217402/6b1301ba-534a-4bf0-816d-76729b16938d">
+<img width="2450" src="https://github.com/al1kite/CLUE_B-BE/assets/102217402/2d5b3ddb-ec96-4c72-bf88-697aa6aefa7f">

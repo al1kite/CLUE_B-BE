@@ -3,7 +3,7 @@
 
 ## 📈 About Service
 
-<img width="2448" src="https://github.com/al1kite/CLUE_B-BE/assets/102217402/4b373a6f-fe62-4e31-958c-4c58b44b90ce">
+<img width="2448" src="https://github.com/al1kite/CLUE_B-BE/assets/102217402/21e1f1c0-28e7-4da5-a629-a19164ca24f3">
 
 ## 🛠️ Architecture
 
